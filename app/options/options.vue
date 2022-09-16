@@ -365,7 +365,8 @@ export default {
                     {value: 'openapp', label: 'Open App'},
                     {value: 'capturescreenshot', label: 'Capture current viewport screenshot'},
                     {value: 'capturefullsizescreenshot', label: 'Capture full size screenshot (max height is 16,348px due to browser limitation)'},
-                    {value: 'forcecapturefullsizescreenshot', label: 'Force capture full size screenshot (when window is not scrollable)'}
+                    {value: 'forcecapturefullsizescreenshot', label: 'Force capture full size screenshot (when window is not scrollable)'},
+                    {value: 'remapkey', label: 'Remap Key Binding'}
                 ]
             }
         }
